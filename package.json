@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": ">=0.32.0",
     "css.gg": "^2.0.0",
     "moment": "^2.29.4",
     "qs": "^6.10.5",
